@@ -1,0 +1,14 @@
+Git hub Commands
+1.	git init
+2.	git config user name “f.n  l.n”
+3.	git config user email “xyz@gmail.com”
+4.	git clone “c//_____ (path of the clone)”
+5.	git add form.html / git add
+6.	git commit -m”___(msg)”
+7.	git push / git push origin branch 1
+8.	git branch branch 1
+9.	git checkout branch 1
+10.	git status
+11.	git pull / git pull origin branch 1
+12.	git marge branch 1
+

@@ -1,0 +1,275 @@
+.e20_15 { 
+	overflow:hidden;
+}
+.e20_15 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1000px;
+	height:1800px;
+	position:absolute;
+}
+.e29_81 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1000px;
+	height:1500px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e29_82 { 
+	width:1000px;
+	height:1500px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/figma_page_3_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e75_2539 { 
+	background-color:rgba(25.67941915243864, 5.737525876611471, 255, 1);
+	width:381px;
+	height:90px;
+	position:absolute;
+	left:310px;
+	top:1276px;
+	border-top-left-radius:45px;
+	border-top-right-radius:45px;
+	border-bottom-left-radius:45px;
+	border-bottom-right-radius:45px;
+}
+.e43_2 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:900px;
+	height:100px;
+	position:absolute;
+	left:50px;
+	top:255px;
+}
+.e43_3 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:900px;
+	height:368px;
+	position:absolute;
+	left:50px;
+	top:873px;
+	border-top-left-radius:110px;
+	border-top-right-radius:110px;
+	border-bottom-left-radius:110px;
+	border-bottom-right-radius:110px;
+}
+.e43_4 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:900px;
+	height:100px;
+	position:absolute;
+	left:50px;
+	top:650px;
+}
+.e43_5 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:900px;
+	height:100px;
+	position:absolute;
+	left:50px;
+	top:456px;
+}
+.e44_2 { 
+	color:rgba(255, 255, 255, 1);
+	width:511px;
+	height:61px;
+	position:absolute;
+	left:51px;
+	top:174px;
+	font-family:Inter;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e44_3 { 
+	color:rgba(255, 255, 255, 1);
+	width:296px;
+	height:61px;
+	position:absolute;
+	left:50px;
+	top:792px;
+	font-family:Inter;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e44_4 { 
+	color:rgba(255, 255, 255, 1);
+	width:728px;
+	height:61px;
+	position:absolute;
+	left:50px;
+	top:584px;
+	font-family:Inter;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e44_5 { 
+	color:rgba(255, 255, 255, 1);
+	width:515px;
+	height:61px;
+	position:absolute;
+	left:50px;
+	top:375px;
+	font-family:Inter;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e44_6 { 
+	width:900px;
+	height:186px;
+	position:absolute;
+	left:50px;
+	top:890px;
+	border-top-left-radius:110px;
+	border-top-right-radius:110px;
+	border-bottom-left-radius:110px;
+	border-bottom-right-radius:110px;
+	background-image:url(images/download_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e75_2540 { 
+	color:rgba(255, 255, 255, 1);
+	width:381px;
+	height:85px;
+	position:absolute;
+	left:310px;
+	top:1281px;
+	font-family:Inter;
+	text-align:center;
+	font-size:70px;
+	letter-spacing:0;
+}
+.e112_206 { 
+	width:1000px;
+	height:114px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e112_207 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1000px;
+	height:114px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e112_221 { 
+	width:90px;
+	height:90px;
+	position:absolute;
+	left:875px;
+	top:15px;
+	background-image:url(images/user.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e112_208 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:0px;
+	top:7px;
+	background-image:url(images/bmw.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e112_209 { 
+	background-image:linear-gradient(0deg, rgba(137.25792199373245, 187.54430204629898, 233.9624896645546, 1) 0%,rgba(123.34562212228775, 157.88228809833527, 189.76248621940613, 1) 100%) ;
+	width:500px;
+	height:75px;
+	position:absolute;
+	left:118px;
+	top:20px;
+	border-top-left-radius:110px;
+	border-top-right-radius:110px;
+	border-bottom-left-radius:110px;
+	border-bottom-right-radius:110px;
+}
+.e112_210 { 
+	color:rgba(0, 0, 0, 1);
+	width:157px;
+	height:52px;
+	position:absolute;
+	left:214px;
+	top:31px;
+	font-family:Inika;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:15;
+}
+.e112_211 { 
+	width:90px;
+	height:90px;
+	position:absolute;
+	left:750px;
+	top:12px;
+	background-image:url(images/place_marker.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e112_212 { 
+	width:90px;
+	height:90px;
+	position:absolute;
+	left:625px;
+	top:15px;
+	background-image:url(images/bulleted_list.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e72_72 { 
+	background-image:linear-gradient(0deg, rgba(4.250000221654773, 255, 149.68500316143036, 1) 0%,rgba(142.80000060796738, 0, 255, 1) 100%) ;
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	-moz-background-clip:text;
+	-moz-text-fill-color:transparent;
+	-ms-background-clip:text;
+	-ms-text-fill-color:transparent;
+	width:248px;
+	height:61px;
+	position:absolute;
+	left:50px;
+	top:1370px;
+	font-family:Inter;
+	text-align:center;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e164_45 { 
+	width:978px;
+	height:300px;
+	position:absolute;
+	left:20px;
+	top:1500px;
+}
+.e164_46 { 
+	color:rgba(255, 255, 255, 1);
+	width:675px;
+	height:300px;
+	position:absolute;
+	left:303px;
+	top:0px;
+	font-family:Inika;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:15;
+}
+.e164_47 { 
+	width:285px;
+	height:217px;
+	position:absolute;
+	left:0px;
+	top:42.00011444091797px;
+	background-image:url(images/vehicle_logo_design_ideas_for_your_auto_company_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
